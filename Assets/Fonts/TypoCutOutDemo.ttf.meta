@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6a43263eddfefa9438445f976c0ef375
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Typo Cut-Out Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 77d8cc1e9b044c3419bb3d1cddf48878, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
